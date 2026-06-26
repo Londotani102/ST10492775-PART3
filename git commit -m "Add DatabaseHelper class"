@@ -1,0 +1,2 @@
+Created the DatabaseHelper class to manage communication between the CyberBot application and the MySQL database. 
+It performs CRUD operations, allowing tasks to be added, retrieved, updated, completed, and deleted.
