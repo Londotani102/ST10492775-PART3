@@ -1,0 +1,2 @@
+Implemented helper methods such as Respond(), AddMessage(), Speak(), GetValidResponse(), and LogAction().
+These methods improve code organization and manage chatbot responses, speech, and activity logging.
