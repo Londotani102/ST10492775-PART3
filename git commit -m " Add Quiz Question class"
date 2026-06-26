@@ -1,0 +1,2 @@
+Created the QuizQuestion class to store quiz questions and answer choices.
+It also stores the correct answer and explanation so the chatbot can run quizzes and provide feedback.
